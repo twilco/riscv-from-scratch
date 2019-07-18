@@ -1,4 +1,4 @@
-### RISC-V from scratch
+## RISC-V from scratch
 
 This repository contains the code for the *RISC-V from scratch* blog post series, which can be found here: [https://github.com/twilco/twilco.github.io](https://github.com/twilco/twilco.github.io)
 
