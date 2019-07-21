@@ -19,7 +19,7 @@ Continues implementation of a driver for the `virt` onboard UART, diagramming in
 
 The code necessary to begin each post is stored in a named branch.  As an example, the code required to begin [RISC-V from scratch 3: Writing a UART driver in assembly (1 / 3)](https://twilco.github.io/riscv-from-scratch/2019/07/08/riscv-from-scratch-3.html) is located in the branch named [pre-uart-driver-skeleton](https://github.com/twilco/riscv-from-scratch/tree/pre-uart-driver-skeleton).  Each post contains a "Setup" section that will inform you, if necessary, which branch you'll need to check out and what things need to be installed, so feel free to jump right into any post that sounds interesting.
 
-There are two directories present in this project: `src` and `work`.  In each branch, `src` will contain the code needed to begin following along with the specific post.  `work` has been added to the [.gitignore](.gitignore) file and can be used as your personal working directory as you progress through the series.  Since this directory and its contents are ignored, you can freely move from branch to branch without your changes getting clobbered, and then pull things from `src` into `work` as you please.
+There are two directories present in this project: `src` and `work`.  In each branch, `src` will contain the code needed to begin following along with the specific post.  `work` can be used as your personal working directory as you progress through the series, allowing you to move from branch to branch and pull from or compare with `src` as you please.
 
 If you have any questions, comments, or corrections, feel free to [open an issue](https://github.com/twilco/twilco.github.io/issues) or leave a comment on the posts themselves.
 
