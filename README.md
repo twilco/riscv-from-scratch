@@ -13,7 +13,7 @@ A review of the devicetree layout of the `virt` QEMU virtual machine, linker scr
 3. [RISC-V from scratch 3: Writing a UART driver in assembly (1 / 3)](https://twilco.github.io/riscv-from-scratch/2019/07/08/riscv-from-scratch-3.html)<br/>
 **Branch:** [pre-uart-driver-skeleton](https://github.com/twilco/riscv-from-scratch/tree/pre-uart-driver-skeleton)<br/>
 Begins implementation of a driver for the `virt` onboard UART, discussing the basics of UART functionality and doing additional linker script and devicetree layout exploration along the way.
-4. [RISC-V from scratch 4: Creating a function prologue for our UART driver (2 / 3)](https://twilco.github.io/riscv-from-scratch/2019/07/29/riscv-from-scratch-4.html)<br/>
+4. [RISC-V from scratch 4: Creating a function prologue for our UART driver (2 / 3)](https://twilco.github.io/riscv-from-scratch/2019/07/28/riscv-from-scratch-4.html)<br/>
 **Branch:** [pre-function-prologue-impl](https://github.com/twilco/riscv-from-scratch/tree/pre-function-prologue-impl)<br/>
 Continues implementation of a driver for the `virt` onboard UART, diagramming instruction-by-instruction the what, why, and how of function prologues.  Also discusses other topics such as ABIs, more RISC-V assembly instructions, and function epilogues.
 
